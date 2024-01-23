@@ -1,1 +1,2 @@
-Currently Under Developement
+Code to be Updated 
+DEPLOYED LINK: https://miststudentdashboard.pythonanywhere.com
